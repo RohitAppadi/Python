@@ -19,7 +19,7 @@ fruits = ["apple", "banana", "kiwi"]
 for i in fruits:
     print(i)
 ```
-output  
+output-    
 apple   
 banana  
 kiwi  
